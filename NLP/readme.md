@@ -1,1 +1,1 @@
-This folder contains tutorials I wrote for some tutorials I taught on NLP tasks.
+This folder contains notebooks I made for some tutorials for an NLP class.
